@@ -5,3 +5,8 @@
 + WeAreDevs API
 + Default UI
 + Always keyless
+
+### Planned features
++ Better GUI
++ Script List
++ MultiApi Support
